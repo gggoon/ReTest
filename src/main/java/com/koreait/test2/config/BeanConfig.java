@@ -61,4 +61,6 @@ public class BeanConfig {
 	public MemberLeaveService leaveService() {
 		return new MemberLeaveService();
 	}
+	
+	
 }
