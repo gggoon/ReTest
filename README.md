@@ -1,5 +1,3 @@
 # ReTest
-// 위에 작성 버튼 클릭 후 틀린 부분 써주기다
-// 작성 후 맨밑 commit 해주기
-1. 머머머머 바꿨다 ~ 
-2. 머머머머 바꿧다 ~ 
+1. member.dao의  getter/ setter 추가
+
